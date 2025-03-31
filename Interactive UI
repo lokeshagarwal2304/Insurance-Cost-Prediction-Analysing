@@ -1,1 +1,19 @@
 An Interactive Frontend Ui for the given Insurance Cost Analysis will be Uploaded and is been working on that.
+Plan:
+React Dashboard
+
+Use React Table for tabular data.
+
+Use Recharts for visualizations (bar charts, pie charts, trends).
+
+Add filters for age, region, insurance cost, etc.
+
+Use Tailwind CSS or Material UI for styling.
+
+BI Tool Integration
+
+Provide an export option to Tableau/Power BI.
+
+Generate CSV/JSON for easy import.
+
+(Optional) Use a REST API to fetch data dynamically.
