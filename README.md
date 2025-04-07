@@ -90,15 +90,15 @@ This project generates an **interactive graph** that visually compares **actual 
   <table>
     <tr>
       <td style="background-color:#d9ed92; padding:10px; border-radius:5px;">📧 <b>Email:</b></td>
-      <td>lokeshagarwal2304@gmail.com</td>
+      <td>gayatri192005@gmailcom | lokeshagarwal2304@gmail.com </td>
     </tr>
     <tr>
       <td style="background-color:#f4a261; padding:10px; border-radius:5px;">🐦 <b>Twitter:</b></td>
-      <td><a href="https://twitter.com/lokeshagarwal2304">@lokeshagarwal2304</a></td>
+      <td><a href="https://twitter.com/lokeshagarwal2304">@gayatri192005 | @lokeshagarwal2304</a></td>
     </tr>
     <tr>
       <td style="background-color:#2a9d8f; padding:10px; border-radius:5px;">💼 <b>LinkedIn:</b></td>
-      <td><a href="https://linkedin.com/in/lokeshagarwal2304">Lokesh Agarwal</a></td>
+      <td><a href="https://linkedin.com/in/gayatri192005">Gayatri G | Lokesh Agarwal</a></td>
     </tr>
   </table>
 </div>  
